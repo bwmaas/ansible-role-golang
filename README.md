@@ -52,7 +52,7 @@ are shown below):
 
 ```yaml
 # Go language SDK version number
-golang_version: '1.24.2'
+golang_version: '1.24.4'
 
 # Mirror to download the Go language SDK redistributable package from
 golang_mirror: 'https://storage.googleapis.com/golang'
@@ -73,9 +73,13 @@ The following versions of Go language SDK are supported without any additional
 configuration (for other versions follow the Advanced Configuration
 instructions):
 
+* `1.24.4`
+* `1.24.3`
 * `1.24.2`
 * `1.24.1`
 * `1.24.0`
+* `1.23.10`
+* `1.23.9`
 * `1.23.8`
 * `1.23.7`
 * `1.23.6`
@@ -85,6 +89,7 @@ instructions):
 * `1.23.2`
 * `1.23.1`
 * `1.23.0`
+* `1.22.12`
 * `1.22.11`
 * `1.22.10`
 * `1.22.9`
@@ -111,6 +116,7 @@ instructions):
 * `1.21.2`
 * `1.21.1`
 * `1.21.0`
+* `1.20.14`
 * `1.20.13`
 * `1.20.12`
 * `1.20.11`
@@ -125,6 +131,7 @@ instructions):
 * `1.20.2`
 * `1.20.1`
 * `1.20`
+* `1.19.13`
 * `1.19.12`
 * `1.19.11`
 * `1.19.10`
